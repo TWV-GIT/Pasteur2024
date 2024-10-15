@@ -14,7 +14,8 @@ You may find me on the following platforms:
 Or you can send me an email at twverdonckt@itg.be
 
 ## Digital poster copy
-![Poster](./Poster.SVG)
+[![Poster](./Poster.jpg)](./Poster.pdf)
+
 
 
 
